@@ -1,0 +1,2 @@
+This is the file in remote repository
+NOw this is to be pulled to local repo
